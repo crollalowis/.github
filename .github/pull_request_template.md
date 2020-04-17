@@ -1,5 +1,7 @@
 # What does it do?
 
+closes #X, fixed #Y
+
 - [ ] adds new feature X
 - [ ] fixes bug Y
 
